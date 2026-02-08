@@ -1,4 +1,4 @@
-- # Cyber Defence
+# Cyber Defence
 FA25-BL-CSCI-B649-8705
 ## Overview
 - Contains coursework for CSCI-B649: Cyber Defence (Fall 2025).
